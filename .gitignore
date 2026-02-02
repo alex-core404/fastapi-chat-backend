@@ -1,0 +1,9 @@
+        venv/
+        *.pyc
+        __pycache__/
+        .vscode/
+        .idea/
+        redis_data/
+        dump.rdb
+        appendonlydir/
+        
